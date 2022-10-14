@@ -3,5 +3,5 @@
  * This file contains the JavaScript for index.html
  */
 function myButtonClicked() {
-  document.getElementById("address").innerHTML 
+  document.getElementById("address").innerHTML
 }
