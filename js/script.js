@@ -7,10 +7,10 @@
 /**
  * Check servie worker.
  */
- if (navigator.serviceWorker) {
-    navigator.serviceWorker.register("/ICS2O-TEMPLATE/sw.js", {
-      scope: "/ICS2O-TEMPLATE/",
-    })
-  }
+if (navigator.serviceWorker) {
+  navigator.serviceWorker.register("/ICS2O-TEMPLATE/sw.js", {
+    scope: "/ICS2O-TEMPLATE/",
+  })
+}
 
 //Function
